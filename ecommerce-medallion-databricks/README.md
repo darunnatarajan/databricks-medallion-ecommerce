@@ -211,6 +211,6 @@ Released under the [MIT License](LICENSE) — free to use, fork and adapt for yo
 
 <div align="center">
 
-**Darunz** · Darun N · Greens Technologies, Chennai
+**Darunz** · Darun N · Chennai
 
 </div>
