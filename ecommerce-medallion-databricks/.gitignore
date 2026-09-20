@@ -1,0 +1,38 @@
+# ---- Data (never commit datasets or extracts) ----
+*.csv
+*.parquet
+*.json
+data/*
+!data/README.md
+!data/.gitkeep
+
+# ---- Databricks ----
+.databricks/
+manifest.mf
+*.dbc
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# ---- Secrets / config ----
+.env
+*.pem
+*.key
+config.local.*
+secrets.*
+
+# ---- Editors / OS ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# ---- Office temp files ----
+~$*
